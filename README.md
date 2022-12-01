@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakhar Sinha</h1>
-<h3 align="center">I am passionate in learning new stuffs daily</h3>
+<h3 align="center">I am passionate about learning new stuffs daily</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 - 🔭 I’m currently working on **My core skills**
