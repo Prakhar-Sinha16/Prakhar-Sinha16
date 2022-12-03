@@ -3,6 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 - 🔭 I’m currently working on **My core skills**
+- 🧑‍🎓 Student at University of Petroleum and Energy Studies(UPES)
 
 - 🌱 I’m currently learning **Cloud computing, DSA, Backed technology**
 
