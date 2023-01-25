@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **My core skills**
 - 🧑‍🎓 Student at University of Petroleum and Energy Studies(UPES)
 
-- 🌱 I’m currently learning **Cloud computing, DSA, Backed technology**
+- 🌱 I’m currently learning **Cloud computing, DSA, Backend technology**
 
 - 👯 Get connected on LinkedIn **https://www.linkedin.com/in/prakhar-sinha-213767159/**
 
